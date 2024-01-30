@@ -1,0 +1,58 @@
+Date,Patient,MRN,Medic ,Case Manager,Diagnoses,Race,Score,Reason
+12/2/2023,"Jackson, Duncan Eric",100057638171,Carroll,Martin,CHF,B,25,Graduated
+12/2/2023,"Sims, Paulette Williams",100034635720,Barker,Martin,CHF,B,32,Deceased
+12/2/2023,"Williams, Craig",100053421762,Butler,Fields,Resp,B,30,Graduated
+12/3/2023,"Smith, Diana",100055070195,Monroe,Martin,Sepsis,B,51,Deceased
+12/3/2023,"Sykes, Melba Sasser",100033972546,Butler,Martin,CHF,W,22,Graduated
+12/3/2023,"Bristow, Tina Delores",100035559440,Carroll,Martin,High score,B,39,non compliant
+12/3/2023,"Johnson, Rilda Ann",100053747356,Butler,Martin,COPD,W,45,readmit
+12/3/2023,"Jones, Lenver Lee",100041272988,Monroe,Martin,CHF,B,18,Readmit
+12/4/2023,"Bohlander, Michael Allen",100055334849,Butler,Fortson,COPD,W,10,Graduated
+12/4/2023,"Daniels, Floyd Edward",100054183122,Carroll,Martin,CHF,B,31,Extended
+12/4/2023,"Edgerton, Glenda Hickey",8048977,Carroll,Martin,CARDIAC,W,21,Graduated
+12/4/2023,"Baker, Debbie ",100054848146,Carroll,Martin,HTN,B,31,Deceased
+12/5/2023,"Fenton, James Emmanuel",100056824277,Monroe,Martin,Sepsis,B,49,Deceased
+12/5/2023,"Schallert, Katherine A",100056302647,Monroe,Fortson,Resp,W,16,Graduated
+12/5/2023,"Wilson, James Jr.",100054939994,Butler,Salazar,Resp,B,25,Graduated
+12/7/2023,"Massey, Ronnie Carl ",100047877616,Butler ,Salazar,Cardiac,W,12,
+12/8/2023,"McKinney, Rhonda ",100034025088,Barker ,Fields ,High Score ,B,43,No Contact
+12/8/2023,"Bell, Annie Burden ",8894511,Barker ,Newsome ,ChF,B,30,Graduated
+12/8/2023,"McClain, Thresa Lynette",100053554968,Carroll,Newsome ,CHF,B,52,No Contact
+12/11/2023,"Daye, Melba",100052344379,Barker ,Martin ,CHF,B,34,Graduated
+12/11/2023,"Simms, Cynthia Delores ",100053563746,Barker,Salazar,Resp,B,35,Readmitted
+12/12/2023,"Hinnant, Frances Tyner",100033985142,Butler,Winnie 3HC,CHF,W,8,Graduated
+12/12/2023,"Peterson, Brad Allen",100056581489,Barker ,mokus ,resp ,W,17,Declined
+12/12/2023,"Godwin, Michael James ",100053519078,Butler ,Martin,CHF,W,20,Graduated
+12/12/2023,"Hicks, Sylvia Sloan ",100053950695,Butler ,,TIA,W,18,Graduated
+12/12/2023,"Slovensky, Joseph",100084052107,Monroe ,Martin ,Copd,W,21,No Contact
+12/12/2023,"Anthony, Robin Rea",100033600972,Barker ,Martin ,COPD,W,23,No Contact
+12/12/2023,"Thompson, Sequellas Montrel ",100057410035,Carroll,Martin ,CHF,B,26,Graduated
+12/13/2023,"Campbell, Pearlie Geraldine",100056022641,Barker,Long,COPD,B,11,Readmitted
+12/13/2023,"Raynor, Deborah Ann",100056144353,Barker ,Martin ,COPD,W,N/A,No Contact
+12/13/2023,"Green, Lillian Carol ",100053846182,Butler ,Martin ,cardiac ,W,N/A,Graduated
+12/13/2023,"Howell, Dorthy M",100053768493,Barker ,Martin ,DM,B,27,Graduated
+12/15/2023,"Spruill, Joe Nathan ",100055653057,Barker ,Salazar,Cardiac,B,13,Graduated
+12/15/2023,"IVY, Erna",100001608866,Carroll ,Martin,angina ,W,n/a,Graduated
+12/15/2023,"Atkinson, Mary Elizabeth",9469446,Barker ,Martin,DM,B,34,No Contact
+12/15/2023,"Jackson, Jerome N",100075129112,Carroll,Martin,Resp,B,24,Graduated
+12/15/2023,"Kimbrough, Timothy Ray",100052277199,Carroll,Martin,Resp,W,23,Graduated
+12/15/2023,"Aycock, Bobby Hugh",100053902944,Carroll,Martin,CVA,W,17,Graduated
+12/16/2023,"Folk, Raphael",100085929600,Barker,Bellamy,CHF,B,19,No Contact
+12/16/2023,"Holder, Alvin Jr.",100039469570,Carroll,Martin,CHF,B,28,No Contact
+12/16/2023,"Livingston, Michele",100053818249,Carroll,Martin,CHF,B,25,No Contact
+12/16/2023,"Reece, Charlotte Ann",100053999155,Carroll,Martin,Cardiac,W,48,No Contact
+12/16/2023,"Taylor, Charles Wilford ",100053568968,Carroll,Martin,Hign score,W,45,Declined
+12/17/2023,"Aytch, Reginald Lee",100057632653,Carroll,Martin,CHF,B,13,Graduated
+12/17/2023,"Ibarra, Theresa Ann",100054648736,Butler,Martin,COPD,H,29,No Contact
+12/18/2023,"Wooten, Alma Best",100054796634,Barker,Martin,CHF,B,35,Graduated
+12/19/2023,"Britt-McCoy, Holly",100074764091,Butler,Salazar,Cardiac,W,11,No Contact
+12/19/2023,"Dooms, Charlotte",100083547016,Butler,Garner,CHF,B,23,Graduated
+12/19/2023,"Stallings, Shirley",100033583988,Butler ,Salazar,CHF,W,20,No Contact
+12/20/2023,"Woodard, Patricia Kidd ",4463220,Barker ,Garner ,COPD,W,N/A,No Contact
+12/22/2023,"Grandy, Freddie Leo",100057039446,Barker ,Martin,chf,B,22,No Contact
+12/23/2023,"Jones, Kenneth Scott",16392938,Barker ,Martin,resp ,B,31,Readmitted
+12/24/2023,"McClain, Teresa Lynette",100053554968,Barker ,Martin,resp ,B,61,No Contact
+12/24/2023,"Leclair, Eloise",100055677783,Barker ,Martin ,CHF,W,15,Graduated
+12/27/2023,"Jones, Lenver Lee",100041272988,Carroll,Martin,CHF,B,18,
+12/30/2023,"Taylor, Barbara Stocks",3808706,Butler,Casey (3HC),CHF,W,41,Graduated
+12/30/2023,"Moore, Mamie Elfredia",10000620012,Butler,Newsome ,CHF,B,15,No Contact
